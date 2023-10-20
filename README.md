@@ -17,7 +17,10 @@ Mary.
 The version of the trained model can be downloaded from the following link:
 kaggle datasets download -d gosegomenwe/trained-cnn
 
-To run the code, upload data training and testing file paths into the load_image_files method and run the notebooks. 
+To run the code, upload data training and testing file paths into the load_image_files method and run the notebooks.
+
+Ready to run and configured versions can be found at:
+https://www.kaggle.com/gosegomenwe
 
 Data Sources:
 Kaggle Soil Dataset:
