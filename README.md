@@ -17,9 +17,14 @@ Mary.
 The version of the trained model can be downloaded from the following link:
 kaggle datasets download -d gosegomenwe/trained-cnn
 
+To run the code, upload data training and testing file paths into the load_image_files method and run the notebooks. 
+
 Data Sources:
 Kaggle Soil Dataset:
 https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset
 
 Soil Analysis Dataset:
 https://public.roboflow.ai/object-detection/undefined
+
+Augmented Dataset:
+https://www.kaggle.com/datasets/gosegomenwe/soil-data-v3
